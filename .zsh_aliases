@@ -1,0 +1,3 @@
+# Aliases
+alias ll='eza --oneline --long --color=automatic'
+alias vim='nvim'
